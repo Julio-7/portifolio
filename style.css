@@ -3,7 +3,7 @@
 html {
     color: #1f1f1f;
     background-color: #f3f3f3;
-    background-image: url('/src/kiwihug.jpg');
+    background-image: url('src/kiwihug.jpg');
 }
 
 * {
